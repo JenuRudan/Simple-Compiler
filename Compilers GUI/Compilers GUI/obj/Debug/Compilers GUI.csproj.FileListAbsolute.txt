@@ -1,0 +1,13 @@
+c:\users\lenovo1\documents\visual studio 2013\Projects\Compilers GUI\Compilers GUI\bin\Debug\Compilers GUI.exe.config
+c:\users\lenovo1\documents\visual studio 2013\Projects\Compilers GUI\Compilers GUI\bin\Debug\Compilers GUI.exe
+c:\users\lenovo1\documents\visual studio 2013\Projects\Compilers GUI\Compilers GUI\bin\Debug\Compilers GUI.pdb
+c:\users\lenovo1\documents\visual studio 2013\Projects\Compilers GUI\Compilers GUI\obj\Debug\Compilers GUI.csprojResolveAssemblyReference.cache
+c:\users\lenovo1\documents\visual studio 2013\Projects\Compilers GUI\Compilers GUI\obj\Debug\Compilers_GUI.mainWindow.resources
+c:\users\lenovo1\documents\visual studio 2013\Projects\Compilers GUI\Compilers GUI\obj\Debug\Compilers_GUI.Properties.Resources.resources
+c:\users\lenovo1\documents\visual studio 2013\Projects\Compilers GUI\Compilers GUI\obj\Debug\Compilers GUI.csproj.GenerateResource.Cache
+c:\users\lenovo1\documents\visual studio 2013\Projects\Compilers GUI\Compilers GUI\obj\Debug\Compilers GUI.exe
+c:\users\lenovo1\documents\visual studio 2013\Projects\Compilers GUI\Compilers GUI\obj\Debug\Compilers GUI.pdb
+c:\users\lenovo1\documents\visual studio 2013\Projects\Compilers GUI\Compilers GUI\bin\Debug\Compilers GUI.exe.manifest
+c:\users\lenovo1\documents\visual studio 2013\Projects\Compilers GUI\Compilers GUI\bin\Debug\Compilers GUI.application
+c:\users\lenovo1\documents\visual studio 2013\Projects\Compilers GUI\Compilers GUI\obj\Debug\Compilers GUI.exe.manifest
+c:\users\lenovo1\documents\visual studio 2013\Projects\Compilers GUI\Compilers GUI\obj\Debug\Compilers GUI.application
